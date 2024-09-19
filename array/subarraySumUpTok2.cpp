@@ -35,6 +35,7 @@ int main()
     long long k = 10;
     int len = getLongestSubarray(a, k);
     cout << "The length of the longest subarray is: " << len << "\n";
+    
     return 0;
 }
 
